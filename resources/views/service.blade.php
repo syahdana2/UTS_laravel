@@ -67,6 +67,9 @@
                 <a class="nav-link" href="/about"> About</a>
               </li>
               <li class="nav-item">
+                <a class="nav-link" href="/product"> Product</a>
+              </li>
+              <li class="nav-item">
                 <a class="nav-link" href="/service">Services</a>
               </li>
               <li class="nav-item">
@@ -102,8 +105,8 @@
         <div class="row">
           <div class="col-md-4 ">
             <div class="box ">
-              <div class="img-box">
-                <img src="images/farm3.png" alt="">
+              <div class="img-box" style="width: 10rem; height: 10rem;">
+                <img src="images/service.jpg" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -120,8 +123,8 @@
           </div>
           <div class="col-md-4 ">
             <div class="box ">
-              <div class="img-box">
-                <img src="images/farm3.png" alt="">
+              <div class="img-box" style="width: 10rem; height: 10rem;">
+                <img src="images/service.jpg" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -138,8 +141,8 @@
           </div>
           <div class="col-md-4 ">
             <div class="box ">
-              <div class="img-box">
-                <img src="images/farm3.png" alt="">
+              <div class="img-box" style="width: 10rem; height: 10rem;">
+                <img src="images/service.jpg" alt="">
               </div>
               <div class="detail-box">
                 <h5>

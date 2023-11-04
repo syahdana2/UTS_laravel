@@ -18,3 +18,4 @@ Route::get('/', [HomeController::class,'index']);
 Route::get('/about', [HomeController::class,'about']);
 Route::get('/service', [HomeController::class,'service']);
 Route::get('/why', [HomeController::class,'why']);
+Route::get('/product', [HomeController::class,'product']);

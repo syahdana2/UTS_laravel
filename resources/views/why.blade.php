@@ -67,6 +67,9 @@
                 <a class="nav-link" href="/about"> About</a>
               </li>
               <li class="nav-item">
+                <a class="nav-link" href="/product"> Product</a>
+              </li>
+              <li class="nav-item">
                 <a class="nav-link" href="/service">Services</a>
               </li>
               <li class="nav-item">
@@ -101,10 +104,10 @@
           </div>
           <div class="detail-box">
             <h5>
-            Kualitas yang Tak Tertandingi
+              Kualitas yang Tak Tertandingi
             </h5>
             <p>
-            Kami memprioritaskan kualitas dalam setiap langkah dari proses pertanian kami. Produk-produk kami selalu segar dan bermutu tinggi, yang membuatnya menjadi pilihan utama bagi pelanggan yang menghargai rasa dan gizi.
+              Kami memprioritaskan kualitas dalam setiap langkah dari proses pertanian kami. Produk-produk kami selalu segar dan bermutu tinggi, yang membuatnya menjadi pilihan utama bagi pelanggan yang menghargai rasa dan gizi.
             </p>
           </div>
         </div>
@@ -114,10 +117,10 @@
           </div>
           <div class="detail-box">
             <h5>
-            Pertanian Organik
+              Pertanian Organik
             </h5>
             <p>
-            Kami mempraktikkan pertanian organik yang ramah lingkungan. Semua produk kami ditanam tanpa menggunakan pestisida atau bahan kimia berbahaya. Anda dapat yakin bahwa Anda dan keluarga Anda mengonsumsi makanan yang sehat.
+              Kami mempraktikkan pertanian organik yang ramah lingkungan. Semua produk kami ditanam tanpa menggunakan pestisida atau bahan kimia berbahaya. Anda dapat yakin bahwa Anda dan keluarga Anda mengonsumsi makanan yang sehat.
             </p>
           </div>
         </div>
@@ -127,10 +130,10 @@
           </div>
           <div class="detail-box">
             <h5>
-            Tim Ahli: 
+              Tim Ahli:
             </h5>
             <p>
-            Tim kami terdiri dari ahli pertanian yang berpengalaman dan berpengetahuan. Mereka siap memberikan saran dan panduan kepada Anda dalam upaya pertanian Anda.
+              Tim kami terdiri dari ahli pertanian yang berpengalaman dan berpengetahuan. Mereka siap memberikan saran dan panduan kepada Anda dalam upaya pertanian Anda.
             </p>
           </div>
         </div>
@@ -140,10 +143,10 @@
           </div>
           <div class="detail-box">
             <h5>
-            Kepuasan Pelanggan
+              Kepuasan Pelanggan
             </h5>
             <p>
-             Kepuasan pelanggan adalah prioritas utama kami. Kami berkomitmen untuk memberikan pengalaman berbelanja yang luar biasa dan produk-produk yang memenuhi harapan Anda.
+              Kepuasan pelanggan adalah prioritas utama kami. Kami berkomitmen untuk memberikan pengalaman berbelanja yang luar biasa dan produk-produk yang memenuhi harapan Anda.
             </p>
           </div>
         </div>
